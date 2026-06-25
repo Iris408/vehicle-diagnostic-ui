@@ -49,7 +49,7 @@ The goal was to create a clean, practical diagnostic interface that could be ext
 
 ## Screenshot
 
-<img src="./screenshots/vehicle-diagnostic-dashboard.png" width="500"/>
+<img src="./public/screenshots/vehicle-diagnostic-dashboard.png" width="500"/>
 
 
 ## How to Run Locally
