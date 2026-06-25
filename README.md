@@ -4,24 +4,21 @@ A frontend vehicle diagnostic dashboard built with React, TypeScript, Vite, and 
 
 The app simulates a technician-facing vehicle health monitoring dashboard using mock diagnostic data. It includes alert triage, severity filtering, selected alert details, vehicle module health status, and responsive dashboard layouts.
 
-⸻
-
 ## Project Status
 
 Current stage: Portfolio-ready frontend MVP
 
-✅ React + TypeScript frontend
-✅ Vite setup
-✅ Mock vehicle diagnostic data
-✅ Diagnostic alert cards
-✅ Alert severity filters
-✅ Selected alert detail panel
-✅ Vehicle module health cards
-✅ Module progress bars
-✅ Responsive dashboard layout
-✅ Portfolio screenshot ready
+* ✅ React + TypeScript frontend
+* ✅ Vite setup
+* ✅ Mock vehicle diagnostic data
+* ✅ Diagnostic alert cards
+* ✅ Alert severity filters
+* ✅ Selected alert detail panel
+* ✅ Vehicle module health cards
+* ✅ Module progress bars
+* ✅ Responsive dashboard layout
+* ✅ Portfolio screenshot ready
 
-⸻
 
 ## Features
 
@@ -34,8 +31,6 @@ Current stage: Portfolio-ready frontend MVP
 * Vehicle module status cards
 * Responsive mobile-friendly layout
 
-⸻
-
 ## Tech Stack
 
 | Area | Technologies |
@@ -45,7 +40,6 @@ Current stage: Portfolio-ready frontend MVP
 | UI | Responsive dashboard layout, alert cards, severity pills , progress bars |
 | Tools | Git, GitHub, VS Code, local Vite dev server |
 
-⸻
 
 ## Why I Built This
 
@@ -53,13 +47,10 @@ This project was built to demonstrate frontend engineering, dashboard design, ve
 
 The goal was to create a clean, practical diagnostic interface that could be extended later into a full-stack vehicle monitoring or alert triage system.
 
-⸻
-
 ## Screenshots
 
 ![Vehicle Diagnostic UI Demo](./screenshots/vehicle-diagnostic-dashboard.png)
 
-⸻
 
 ## How to Run Locally
 ```bash
@@ -71,7 +62,6 @@ Open:
 ```text
 http://localhost:5173
 ```
-⸻
 
 ## Future Improvements
 
@@ -86,9 +76,7 @@ http://localhost:5173
 * Tests and GitHub Actions CI
 * Deployment to Vercel
 
-⸻
-
-## Portfolio Summary
+## Portfolio Summary
 
 Vehicle Diagnostic UI Demo is a React and TypeScript dashboard that simulates vehicle health monitoring, diagnostic alert triage, module status tracking, severity filtering, and technician-focused alert details using mock vehicle data.
 
