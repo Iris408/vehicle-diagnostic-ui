@@ -47,9 +47,9 @@ This project was built to demonstrate frontend engineering, dashboard design, ve
 
 The goal was to create a clean, practical diagnostic interface that could be extended later into a full-stack vehicle monitoring or alert triage system.
 
-## Screenshots
+## Screenshot
 
-![Vehicle Diagnostic UI Demo](./screenshots/vehicle-diagnostic-dashboard.png)
+<img src="./screenshots/vehicle-diagnostic-dashboard.png" width="500"/>
 
 
 ## How to Run Locally
